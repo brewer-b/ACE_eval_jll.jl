@@ -1,0 +1,160 @@
+[[ACE_eval]]
+arch = "aarch64"
+git-tree-sha1 = "62f511d5947c8d5342f537d83d42444f0b1c7d1e"
+os = "macos"
+
+    [[ACE_eval.download]]
+    sha256 = "787e2e21d143db25a8004500927ffea84ab6a0b48c55c365f610838f1ffad435"
+    url = "https://github.com/brewer-b/ACE_eval_jll.jl/releases/download/ACE_eval-v0.0.1+0/ACE_eval.v0.0.1.aarch64-apple-darwin.tar.gz"
+[[ACE_eval]]
+arch = "aarch64"
+git-tree-sha1 = "2b7fd9d5d1d821f1a823e628d7c6947d3681e05e"
+libc = "glibc"
+os = "linux"
+
+    [[ACE_eval.download]]
+    sha256 = "5243a3575e5ef92b2ac81fc2c7c66d804785ac334271a82f3f649e9992692791"
+    url = "https://github.com/brewer-b/ACE_eval_jll.jl/releases/download/ACE_eval-v0.0.1+0/ACE_eval.v0.0.1.aarch64-linux-gnu.tar.gz"
+[[ACE_eval]]
+arch = "aarch64"
+git-tree-sha1 = "66f525cfcbc7f660c67877e24401c64adc312097"
+libc = "musl"
+os = "linux"
+
+    [[ACE_eval.download]]
+    sha256 = "9bfb85fbcae6a5d476647dc3f3c72a6860bfe109cdc1b4504a830a9b5bce7171"
+    url = "https://github.com/brewer-b/ACE_eval_jll.jl/releases/download/ACE_eval-v0.0.1+0/ACE_eval.v0.0.1.aarch64-linux-musl.tar.gz"
+[[ACE_eval]]
+arch = "aarch64"
+git-tree-sha1 = "61b6afd53046e7caacc9484154617a24b770740e"
+os = "freebsd"
+
+    [[ACE_eval.download]]
+    sha256 = "0759b1e57bc64fa1e3955cd164e048e3b251a4839ee13506b4a53661cb6fe2f4"
+    url = "https://github.com/brewer-b/ACE_eval_jll.jl/releases/download/ACE_eval-v0.0.1+0/ACE_eval.v0.0.1.aarch64-unknown-freebsd.tar.gz"
+[[ACE_eval]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "4b027361be5afdea6b7c02e61dab8dce6ae90e57"
+libc = "glibc"
+os = "linux"
+
+    [[ACE_eval.download]]
+    sha256 = "59d911867ccee52c87cb2f8b02081bae4be884d74fa673baaa574ea47fea0e86"
+    url = "https://github.com/brewer-b/ACE_eval_jll.jl/releases/download/ACE_eval-v0.0.1+0/ACE_eval.v0.0.1.armv6l-linux-gnueabihf.tar.gz"
+[[ACE_eval]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "ac05683f19db6a4f9c78b2fa521b8f09637ad747"
+libc = "musl"
+os = "linux"
+
+    [[ACE_eval.download]]
+    sha256 = "2b03955367c9ce5915cfd8582597cbed5244029605d0cd7188e0d790494b30bf"
+    url = "https://github.com/brewer-b/ACE_eval_jll.jl/releases/download/ACE_eval-v0.0.1+0/ACE_eval.v0.0.1.armv6l-linux-musleabihf.tar.gz"
+[[ACE_eval]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "3df47a70cf8716692eed420305ce1b10ab2e5740"
+libc = "glibc"
+os = "linux"
+
+    [[ACE_eval.download]]
+    sha256 = "8a24136e7d205de1e1571b0850fbc632a5c83028b2a0b3eef4a5760b88b759fc"
+    url = "https://github.com/brewer-b/ACE_eval_jll.jl/releases/download/ACE_eval-v0.0.1+0/ACE_eval.v0.0.1.armv7l-linux-gnueabihf.tar.gz"
+[[ACE_eval]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "8b0ae9ea03bc5dd1630799c9f2c71043c089d7aa"
+libc = "musl"
+os = "linux"
+
+    [[ACE_eval.download]]
+    sha256 = "620286c3c4cc8a461a98f06d8fce1648cbd1075df7317a37a1a360426965fdbb"
+    url = "https://github.com/brewer-b/ACE_eval_jll.jl/releases/download/ACE_eval-v0.0.1+0/ACE_eval.v0.0.1.armv7l-linux-musleabihf.tar.gz"
+[[ACE_eval]]
+arch = "i686"
+git-tree-sha1 = "264256f28243baa2c3a056f63f1c550e84b08b98"
+libc = "glibc"
+os = "linux"
+
+    [[ACE_eval.download]]
+    sha256 = "0d5f1509afa0e32f121807c5cb5a9a9a5ba79e75ff4613fa02b564c0da97fc88"
+    url = "https://github.com/brewer-b/ACE_eval_jll.jl/releases/download/ACE_eval-v0.0.1+0/ACE_eval.v0.0.1.i686-linux-gnu.tar.gz"
+[[ACE_eval]]
+arch = "i686"
+git-tree-sha1 = "715188c6200e375ecfb451e7c01024f73a265a19"
+libc = "musl"
+os = "linux"
+
+    [[ACE_eval.download]]
+    sha256 = "849191acf74610c49c0b377de95a06f8b1e7e3dec634539762068d5c880ab43e"
+    url = "https://github.com/brewer-b/ACE_eval_jll.jl/releases/download/ACE_eval-v0.0.1+0/ACE_eval.v0.0.1.i686-linux-musl.tar.gz"
+[[ACE_eval]]
+arch = "i686"
+git-tree-sha1 = "1646e64d0a2b645a912544d3f86b71775b80702b"
+os = "windows"
+
+    [[ACE_eval.download]]
+    sha256 = "f70a93e345371c7de1fa05ec80619300541ff7a6d22666dc10610c3200c5b4c3"
+    url = "https://github.com/brewer-b/ACE_eval_jll.jl/releases/download/ACE_eval-v0.0.1+0/ACE_eval.v0.0.1.i686-w64-mingw32.tar.gz"
+[[ACE_eval]]
+arch = "powerpc64le"
+git-tree-sha1 = "7631ea86bff362dbc453064f1c87dd5c3ea7c394"
+libc = "glibc"
+os = "linux"
+
+    [[ACE_eval.download]]
+    sha256 = "1dddea085f1a3cc7d3ff43cc7aa540affb47cdb97759827ad725ab07ea438483"
+    url = "https://github.com/brewer-b/ACE_eval_jll.jl/releases/download/ACE_eval-v0.0.1+0/ACE_eval.v0.0.1.powerpc64le-linux-gnu.tar.gz"
+[[ACE_eval]]
+arch = "riscv64"
+git-tree-sha1 = "a65b6e9d6257f03b8813cfe1a31c9a62e78d7a2a"
+libc = "glibc"
+os = "linux"
+
+    [[ACE_eval.download]]
+    sha256 = "e9630bbb655059e848543125a3514ba9d23e96b277a96d8b0f47711e5ed83913"
+    url = "https://github.com/brewer-b/ACE_eval_jll.jl/releases/download/ACE_eval-v0.0.1+0/ACE_eval.v0.0.1.riscv64-linux-gnu.tar.gz"
+[[ACE_eval]]
+arch = "x86_64"
+git-tree-sha1 = "802811a212c15e548e1d4aa7b793efd6254f5099"
+os = "macos"
+
+    [[ACE_eval.download]]
+    sha256 = "74de606ce16ff900af9be4f64c1beab8a013511b750a4ccb206bb3e162a71a22"
+    url = "https://github.com/brewer-b/ACE_eval_jll.jl/releases/download/ACE_eval-v0.0.1+0/ACE_eval.v0.0.1.x86_64-apple-darwin.tar.gz"
+[[ACE_eval]]
+arch = "x86_64"
+git-tree-sha1 = "299ca26aa258735b47be1482bff3fc2709b587d3"
+libc = "glibc"
+os = "linux"
+
+    [[ACE_eval.download]]
+    sha256 = "50fea08e13c42b9b4b56efc9c6405f2d26d609de635c935eaab2fa653e0503a5"
+    url = "https://github.com/brewer-b/ACE_eval_jll.jl/releases/download/ACE_eval-v0.0.1+0/ACE_eval.v0.0.1.x86_64-linux-gnu.tar.gz"
+[[ACE_eval]]
+arch = "x86_64"
+git-tree-sha1 = "d2573da5617d4d5b3cba863d05a1ef457e8ce14b"
+libc = "musl"
+os = "linux"
+
+    [[ACE_eval.download]]
+    sha256 = "3e3a617a2cce80422e0a1b8e7118a09036f3ee2826473cc7c6f0e0cfb0b3972d"
+    url = "https://github.com/brewer-b/ACE_eval_jll.jl/releases/download/ACE_eval-v0.0.1+0/ACE_eval.v0.0.1.x86_64-linux-musl.tar.gz"
+[[ACE_eval]]
+arch = "x86_64"
+git-tree-sha1 = "23ac21dc9ed4e17a885b6bfb71269776005f9be6"
+os = "freebsd"
+
+    [[ACE_eval.download]]
+    sha256 = "be4661163b942897d022c3d535626e424c157200fef4f0cc6920c2cb875dbd32"
+    url = "https://github.com/brewer-b/ACE_eval_jll.jl/releases/download/ACE_eval-v0.0.1+0/ACE_eval.v0.0.1.x86_64-unknown-freebsd.tar.gz"
+[[ACE_eval]]
+arch = "x86_64"
+git-tree-sha1 = "10857aa88c4243c8df3cf3e756e27bc17c7f3ff3"
+os = "windows"
+
+    [[ACE_eval.download]]
+    sha256 = "c951f25cab9e077cfd955186a137a0a06e193a6b6de57e538471f5ac48c95d81"
+    url = "https://github.com/brewer-b/ACE_eval_jll.jl/releases/download/ACE_eval-v0.0.1+0/ACE_eval.v0.0.1.x86_64-w64-mingw32.tar.gz"
